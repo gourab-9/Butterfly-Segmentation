@@ -1,7 +1,5 @@
 streamlit
 numpy
 cv2
-os
 tensorflow
-time
 matplotlib
