@@ -95,3 +95,6 @@ The app automatically saves the following files:
 - `predictions/prediction_<timestamp>.png` — Predicted mask
 - `ground_truths/ground_truth_<timestamp>.png` — Ground truth mask (if provided)
 
+## Model Output
+![Output Image](https://github.com/user-attachments/assets/b27e5367-1629-485b-9373-b781382fc9a3)
+
